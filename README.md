@@ -1,2 +1,2 @@
-# bca-python-program-
-my python programs and bca practicals
+print("Hello, World!")
+print("I am learning Python and GitHub.")
